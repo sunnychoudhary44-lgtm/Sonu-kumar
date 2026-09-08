@@ -1,0 +1,6 @@
+{
+  "name": "Housing Worlds",
+  "description": "Real estate lead CRM for managing property buyer pipelines, scheduling site visits, logging client interactions, and generating smart follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

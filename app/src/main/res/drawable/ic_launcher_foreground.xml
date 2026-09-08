@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left Building Tower -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,46 L46,46 L46,78 L30,78 Z" />
+    
+    <!-- Left Building Windows -->
+    <path
+        android:fillColor="#0B1329"
+        android:pathData="M34,50 H37 V53 H34 Z M40,50 H43 V53 H40 Z M34,57 H37 V60 H34 Z M40,57 H43 V60 H40 Z M34,64 H37 V67 H34 Z M40,64 H43 V67 H40 Z M34,71 H37 V74 H34 Z M40,71 H43 V74 H40 Z" />
+
+    <!-- Center Pinnacle / Tower -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,34 L54,26 L64,34 L64,78 L44,78 Z" />
+
+    <!-- Center Tower Windows & Door -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M48,39 H51 V43 H48 Z M57,39 H60 V43 H57 Z M48,47 H51 V51 H48 Z M57,47 H60 V51 H57 Z M48,55 H51 V59 H48 Z M57,55 H60 V59 H57 Z M51,68 H57 V78 H51 Z" />
+
+    <!-- Right Building Tower -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M62,40 L78,40 L78,78 L62,78 Z" />
+
+    <!-- Right Building Windows -->
+    <path
+        android:fillColor="#0B1329"
+        android:pathData="M66,45 H69 V48 H66 Z M72,45 H75 V48 H72 Z M66,52 H69 V55 H66 Z M72,52 H75 V55 H72 Z M66,59 H69 V62 H66 Z M72,59 H75 V62 H72 Z M66,66 H69 V69 H66 Z M72,66 H75 V69 H72 Z" />
+
+    <!-- Modern Foundation / Podium Bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,78 L82,78 L82,82 L26,82 Z" />
+
+    <!-- Deal / Location Star accent above spire -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,18 L55.8,22.2 L60.2,22.8 L57,25.8 L57.8,30.2 L54,28 L50.2,30.2 L51,25.8 L47.8,22.8 L52.2,22.2 Z" />
+</vector>
